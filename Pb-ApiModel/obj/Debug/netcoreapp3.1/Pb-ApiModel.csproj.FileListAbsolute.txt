@@ -1,0 +1,8 @@
+D:\Git\privateblog\Pb-ApiModel\bin\Debug\netcoreapp3.1\Pb-ApiModel.deps.json
+D:\Git\privateblog\Pb-ApiModel\bin\Debug\netcoreapp3.1\Pb-ApiModel.dll
+D:\Git\privateblog\Pb-ApiModel\bin\Debug\netcoreapp3.1\Pb-ApiModel.pdb
+D:\Git\privateblog\Pb-ApiModel\obj\Debug\netcoreapp3.1\Pb-ApiModel.AssemblyInfoInputs.cache
+D:\Git\privateblog\Pb-ApiModel\obj\Debug\netcoreapp3.1\Pb-ApiModel.AssemblyInfo.cs
+D:\Git\privateblog\Pb-ApiModel\obj\Debug\netcoreapp3.1\Pb-ApiModel.csproj.CoreCompileInputs.cache
+D:\Git\privateblog\Pb-ApiModel\obj\Debug\netcoreapp3.1\Pb-ApiModel.dll
+D:\Git\privateblog\Pb-ApiModel\obj\Debug\netcoreapp3.1\Pb-ApiModel.pdb

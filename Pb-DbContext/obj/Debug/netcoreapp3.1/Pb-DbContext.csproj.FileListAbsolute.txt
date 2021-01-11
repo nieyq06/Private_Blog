@@ -1,0 +1,8 @@
+D:\Git\privateblog\Pb-DbContext\bin\Debug\netcoreapp3.1\Pb-DbContext.deps.json
+D:\Git\privateblog\Pb-DbContext\bin\Debug\netcoreapp3.1\Pb-DbContext.dll
+D:\Git\privateblog\Pb-DbContext\bin\Debug\netcoreapp3.1\Pb-DbContext.pdb
+D:\Git\privateblog\Pb-DbContext\obj\Debug\netcoreapp3.1\Pb-DbContext.AssemblyInfoInputs.cache
+D:\Git\privateblog\Pb-DbContext\obj\Debug\netcoreapp3.1\Pb-DbContext.AssemblyInfo.cs
+D:\Git\privateblog\Pb-DbContext\obj\Debug\netcoreapp3.1\Pb-DbContext.csproj.CoreCompileInputs.cache
+D:\Git\privateblog\Pb-DbContext\obj\Debug\netcoreapp3.1\Pb-DbContext.dll
+D:\Git\privateblog\Pb-DbContext\obj\Debug\netcoreapp3.1\Pb-DbContext.pdb
